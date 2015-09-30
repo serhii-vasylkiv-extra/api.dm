@@ -1,0 +1,14 @@
+{
+    "name": "zendframework/zendframework1",
+    "description": "zend",
+    "require": {
+        "zendframework/zendframework1": "^1.12"
+    },
+    "authors": [
+        {
+            "name": "Dmytro Miekh",
+            "email": "mordaxtenebrae@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

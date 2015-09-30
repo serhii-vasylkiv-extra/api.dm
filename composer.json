@@ -1,0 +1,13 @@
+{
+    "name": "zend",
+    "description": "zend",
+    "require": {
+        "zendframework/zendframework1": "1.*"
+    },
+    "authors": [
+        {
+            "name": "Dmytro Miekh",
+            "email": "mordaxtenebrae@gmail.com"
+        }
+    ]
+}
